@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">AesopFables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_lionthe_foxandthe_beasts">TheLiontheFoxandtheBeasts</string>
+    <string name="title_activity_the_manandthe_wooden_god">TheManandtheWoodenGod</string>
+    <string name="title_activity_the_antandthe_grasshopper">TheAntandtheGrasshopper</string>
+    <string name="title_activity_the_bald_manandthe_fly">TheBaldManandtheFly</string>
+    <string name="title_activity_the_boysandthe_frogs">TheBoysandtheFrogs</string>
+    <string name="title_activity_the_bundleof_sticks">TheBundleofSticks</string>
+    <string name="title_activity_the_miserand_his_gold">TheMiserandHisGold</string>
+    <string name="title_activity_the_camelandthe_arab">TheCamelandtheArab</string>
+    <string name="title_activity_the_cockandthe_jewel">TheCockandtheJewel</string>
+    <string name="title_activity_the_doginthe_manger">TheDogintheManger</string>
+
+    <string name="Fable_1_text">
+        In a field one summer\'s day a Grasshopper was hopping about, chirping and singing to its heart\'s content. An Ant passed by, bearing along with great toil an ear of corn he was taking to the nest.
+
+"Why not come and chat with me," said the Grasshopper, "instead of toiling and moiling in that way?"
+
+"I am helping to lay up food for the winter," said the Ant, "and recommend you to do the same."
+
+"Why bother about winter?" said the Grasshopper; "we have got plenty of food at present."
+
+But the Ant went on its way and continued its toil.
+
+When the winter came the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer.
+
+Then the Grasshopper knew: It is best to prepare for the days of necessity.
+    </string>
+<string name="Fable_2_text">
+    There was once a Bald Man who sat down after work on a hot summer\'s day./n
+
+A Fly came up and kept buzzing about his bald pate, and stinging him from time to time./n
+
+The Man aimed a blow at his little enemy, but his palm came on his head instead./n
+
+Again the Fly tormented him, but this time the Man was wiser and said:/n
+
+"You will only injure yourself if you take notice of despicable enemies."
+</string>
+    <string name="Fable_3_text">
+        Some boys, playing near a pond, saw a number of Frogs in the water, and began to pelt them with stones.\n
+
+They killed several of them, when one of the Frogs, lifting his head out of the water, cried out:\n
+
+"Pray stop, my boys; what is sport to you is death to us.
+    </string>
+<string name="Fable_4_text">
+    An old man on the point of death summoned his sons around him to give them some parting advice.\n
+\n
+He ordered his servants to bring in a faggot of sticks, and said to his eldest son:
+
+"Break it." \n
+
+The son strained and strained, but with all his efforts was unable to break the Bundle.\n
+
+The other sons also tried, but none of them was successful. \n
+
+"Untie the faggots," said the father, "and each of you take a stick."\n
+
+When they had done so, he called out to them: \n
+
+"Now, break," and each stick was easily broken.\n
+
+"You see my meaning," said their father.
+</string>
+<string name="Fable_5_text">
+An Arab Camel-driver having completed the lading of his Camel, asked him which he would like best, to go up hill or down hill\n.
+
+The poor beast replied, not without a touch of reason:\n "Why do you ask me? Is it that the level way through the desert is closed?"
+</string>
+    <string name="Fable_6_text">
+        A Cock, scratching for food for himself and his hens, found a precious stone; on which he said:\n
+
+"If thy owner had found thee, and not I,\n he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.\n
+
+I would rather have one barleycorn than all the jewels in the world."
+    </string>
+    <string name="Fable_7_text">
+        A Dog looking out for its afternoon nap jumped into the Manger of an Ox and lay there cosily upon the straw.\n
+
+But soon the Ox, returning from its afternoon work, came up to the Manger and wanted to eat some of the straw.\n
+
+The Dog in a rage, being awakened from its slumber, stood up and barked at the Ox, and whenever it came near attempted to bite it.\n
+
+At last the Ox had to give up the hope of getting at the straw, and went away muttering:\n
+
+"Ah, people often grudge others what they cannot enjoy themselves"
+    </string>
+    <string name="Fable_8_text">
+        The Lion once gave out that he was sick unto death and summoned the animals to come and hear his last Will and Testament.\n
+
+So the Goat came to the Lion\'s cave, and stopped there listening for a long time.\n
+
+Then a Sheep went in, and before she came out a Calf came up to receive the last wishes of the Lord of the Beasts.\n
+
+But soon the Lion seemed to recover, and came to the mouth of his cave, and saw the Fox, who had been waiting outside for some time.\n
+
+"Why do you not come to pay your respects to me?" said the Lion to the Fox.\n
+
+"I beg your Majesty's pardon," said the Fox, "but I noticed the track of the animals\n that have already come to you; and while I see many hoof-marks going in, I see none coming out. \nTill the animals that have entered your cave come out again I prefer to remain in the open air.\n"
+    </string>
+    <string name="Fable_9_text">
+        In the old days men used to worship stocks and stones and idols, and prayed to them to give them luck.\n
+
+It happened that a Man had often prayed to a wooden idol he had received from his father, but his luck never seemed to change.
+
+He prayed and he prayed, but still he remained as unlucky as ever.\n
+
+One day in the greatest rage he went to the Wooden God, and with one blow swept it down from its pedestal.\n
+
+The idol broke in two, and what did he see?\n
+
+An immense number of coins flying all over the place.\n
+    </string>
+    <string name="Fable_10_text">
+        Once upon a time there was a Miser who used to hide his gold at the foot of a tree in his garden; but every week he used to go and dig it up and gloat over his gains.
+
+A robber, who had noticed this, went and dug up the gold and decamped with it.\n
+
+When the Miser next came to gloat over his treasures, he found nothing but the empty hole.\n
+
+He tore his hair, and raised such an outcry that all the neighbours\n came around him, and he told them how he used to come and visit his gold.
+
+"Did you ever take any of it out?" asked one of them.
+
+"Nay," said he, "I only came to look at it."
+
+"Then come again and look at the hole," said a neighbour; "it will do you just as much good."
+    </string>
+</resources>
+

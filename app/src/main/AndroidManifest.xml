@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aesopfables">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".TheDogintheManger"
+            android:label="@string/title_activity_the_doginthe_manger"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheCockandtheJewel"
+            android:label="@string/title_activity_the_cockandthe_jewel"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheCamelandtheArab"
+            android:label="@string/title_activity_the_camelandthe_arab"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheMiserandHisGold"
+            android:label="@string/title_activity_the_miserand_his_gold"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheBundleofSticks"
+            android:label="@string/title_activity_the_bundleof_sticks"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheBoysandtheFrogs"
+            android:label="@string/title_activity_the_boysandthe_frogs"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheBaldManandtheFly"
+            android:label="@string/title_activity_the_bald_manandthe_fly"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheAntandtheGrasshopper"
+            android:label="@string/title_activity_the_antandthe_grasshopper"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheManandtheWoodenGod"
+            android:label="@string/title_activity_the_manandthe_wooden_god"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TheLiontheFoxandtheBeasts"
+            android:label="@string/title_activity_the_lionthe_foxandthe_beasts"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
